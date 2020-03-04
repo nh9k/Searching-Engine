@@ -1,0 +1,7 @@
+﻿  searching engine.cpp
+c:\users\nanhee\documents\카카오톡 받은 파일\searching engine 0610 (2)\searching engine 0610 (1)\searching engine\searching engine\searching engine.cpp(249): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nanhee\documents\카카오톡 받은 파일\searching engine 0610 (2)\searching engine 0610 (1)\searching engine\searching engine\searching engine.cpp(264): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nanhee\documents\카카오톡 받은 파일\searching engine 0610 (2)\searching engine 0610 (1)\searching engine\searching engine\searching engine.cpp(266): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nanhee\documents\카카오톡 받은 파일\searching engine 0610 (2)\searching engine 0610 (1)\searching engine\searching engine\searching engine.cpp(270): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nanhee\documents\카카오톡 받은 파일\searching engine 0610 (2)\searching engine 0610 (1)\searching engine\searching engine\searching engine.cpp(275): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  searching engine.vcxproj -> C:\Users\Nanhee\Documents\카카오톡 받은 파일\searching engine 0610 (2)\searching engine 0610 (1)\searching engine\Debug\searching engine.exe
